@@ -1,2 +1,2 @@
 alert(1)
-window.document.write()
+document.body.innerText=document.cookie
