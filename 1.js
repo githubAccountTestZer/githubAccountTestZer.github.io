@@ -1,2 +1,2 @@
 alert(1)
-document.body.innerText=document.cookie
+document.body.innerText=window.leo
