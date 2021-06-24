@@ -1,2 +1,2 @@
 alert(1)
-document.body.innerText=window.leo
+document.body.innerText=window.navigator
